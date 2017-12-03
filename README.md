@@ -29,9 +29,9 @@
 ## Process
 - [x] Resources collecting
 - [x] System diagram construction
-- [ ] frontend application developing
-- [ ] Chose methods for handwritten characters recognization 
-- [ ] Capture feature of different kinds of characters
+- [x] frontend application developing
+- [x] Chose methods for handwritten characters recognization 
+- [x] Capture feature of different kinds of characters
 - [ ] Chose database for translation
 
 ### :satisfied::satisfied::satisfied:We are still working on it...
