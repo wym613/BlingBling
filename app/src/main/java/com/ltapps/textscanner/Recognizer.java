@@ -22,6 +22,7 @@ import android.text.style.BackgroundColorSpan;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -94,6 +95,7 @@ public class Recognizer extends AppCompatActivity implements  Toolbar.OnMenuItem
                         ofe = tvt.toLowerCase().indexOf(ett.toLowerCase(), ofs);
                         if (ofe == -1)
                             break;
+
                         else {
                             WordtoSpan.setSpan(new BackgroundColorSpan(ContextCompat.getColor(Recognizer.this, R.color.colorAccent)), ofe, ofe + ett.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
                             textView.setText(WordtoSpan, TextView.BufferType.SPANNABLE);
@@ -108,6 +110,19 @@ public class Recognizer extends AppCompatActivity implements  Toolbar.OnMenuItem
         ocr.execute();
 
 
+    }
+    public void sendMessage(View view) {
+        // Do something in response to button
+        Intent intent = getPackageManager().getLaunchIntentForPackage("com.google.android.apps.translate");
+
+        if (intent != null) {
+
+            intent.putExtra("name", "Liu xiang");
+            intent.putExtra("birthday", "1983-7-13");
+            startActivity(intent);
+        } else {
+            Toast.makeText(getApplicationContext(), "please download google translate", Toast.LENGTH_LONG).show();
+        }
     }
 
     private void recognizeText(){
