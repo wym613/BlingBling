@@ -1,75 +1,30 @@
-# BlingBling(Recongnizi it!)
+# Text Scanner (OCR) [![GitHub release](https://img.shields.io/github/release/testica/text-scanner.svg)]()
+OCR Android App using tesseract
 
-### Group Members:
-:boy:Zexu Chai   
-:girl:Yimeng Wang   
-:girl:Xinqiao Wei   
-:girl:Yuchen Nie   
-   
-   
-   
-## Summary
- Our project is to build an application based on Android platform. :bowtie:
- 
- This app is for people like students to detect handwritten characters by simply taking a picture or chosing photos from album. Then we convert handwritten characters to editable text :smirk::smirk::smirk:
- 
- Also, since not everyone has proficiency of English, we can provide a function of translation. So that after detecting characters, we translate the sentences or passages to specific language, which means users can understand the context better.We build the link to Google translate to accomplish our translation function. :stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes:
- 
- 
- 
-## Techniques
-* Android App Development:smiling_imp:
-* Image(characters) Detection(tesseract):alien:
-* Image Processing:innocent:
-* Language Translation:stuck_out_tongue_winking_eye:
+<a href='https://play.google.com/store/apps/details?id=com.ltapps.textscanner&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/badge_new.png'/></a>
 
+<a href="http://android.oms.apps.opera.com/el_us/text_scanner_ocr.html?pos=7"><img src="https://apps.opera.com/badge.php?a=s&v=dark&did=209242&pid=892908" height="49" alt="Opera Mobile Store"  title="Opera Mobile Store" /></a>
 
+## Features
+- Crop
+- Rotate
+- Binarize
+- Recognize Text (English and spanish)
+  - Search
+  - Copy to clipboard
+  
+## Libraries
+- [android-image-cropper](https://github.com/ArthurHub/Android-Image-Cropper): for image cropping.
+- [tess-two](https://github.com/rmtheis/tess-two): to recognize text (tesseract) and binarize (leptonica).
 
+## Support
+- Android 4.0 +
 
-## Process
-- [x] Resources collecting
-- [x] System diagram construction
-- [x] frontend application developing
-- [x] Chose methods for handwritten characters recognization 
-- [x] Capture feature of different kinds of characters
-- [x] Chose database for translation
+## Planned Features
+On [Projects tab](https://github.com/testica/text-scanner/projects/1) you can trace the future possible features and its status.
 
-#### :satisfied::satisfied::satisfied:We are still working on it...
+**Backlog**     → a simple idea 
 
+**Ready**       → idea now is a possible feature waiting to be developed
 
-## Get Started
-
-### Step 1
-
-If you would like to run our application, the first thing is to download [Android Studio](https://developer.android.com/studio/index.html) if you haven't done it.
-
-Then if you have installed `git`, you can use the command 
-```
-git clone https://github.com/wym613/BlingBling.git
-``` 
-to download our project. Instead of that, you can also download from our github website.
-
-After importing our project, you can use Emulator or your own Android device to run our application.
-
-### Step 2
-
-Since we imported `Google Translate` as part of our application, you need to install 'Google Translate' on your Android device or on Emulator. 
-
-For Android devices, you can access to `Google Translate` in [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en) App Store.
-
-For Emulator, you need to download google translate `.apk` file first. 
-
-
-
-
-
-
-
- 
- 
- 
-
-
-
-
-
+**In progress** → feature being developed
