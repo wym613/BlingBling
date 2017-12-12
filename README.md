@@ -44,20 +44,19 @@
 If you would like to run our application, the first thing is to download [Android Studio](https://developer.android.com/studio/index.html) if you haven't done it.
 
 Then if you have installed `git`, you can use the command 
-
 ```
 git clone https://github.com/wym613/BlingBling.git
 ``` 
-
 to download our project. Instead of that, you can also download from our github website.
-
 
 After importing our project, you can use Emulator or your own Android device to run our application.
 
 ### Step 2
 
-Since we imported 'Google Translate' as part of our application, you need to install 'Google Translate' on your Android device or on Emulator. 
-For Android devices, you can access to 'Google Translate' in [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en) App Store.
+Since we imported `Google Translate` as part of our application, you need to install 'Google Translate' on your Android device or on Emulator. 
+
+For Android devices, you can access to `Google Translate` in [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en) App Store.
+
 For Emulator, you need to download google translate `.apk` file first. 
 
 
