@@ -34,10 +34,12 @@
 - [x] Capture feature of different kinds of characters
 - [x] Chose database for translation
 
-### :satisfied::satisfied::satisfied:We are still working on it...
+#### :satisfied::satisfied::satisfied:We are still working on it...
 
 
 ## Get Started
+
+### Step 1
 
 If you would like to run our application, the first thing is to download [Android Studio](https://developer.android.com/studio/index.html) if you haven't done it.
 
@@ -51,6 +53,14 @@ to download our project. Instead of that, you can also download from our github 
 
 
 After importing our project, you can use Emulator or your own Android device to run our application.
+
+### Step 2
+
+Since we imported 'Google Translate' as part of our application, you need to install 'Google Translate' on your Android device or on Emulator. 
+For Android devices, you can access to 'Google Translate' in [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en) App Store.
+For Emulator, you need to download google translate '.apk' file first. 
+
+
 
 
 
