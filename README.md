@@ -58,3 +58,6 @@ Since we imported `Google Translate` as part of our application, you need to ins
 For Android devices, you can access to `Google Translate` in [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en) App Store.
 
 For Emulator, you need to download google translate `.apk` file first. 
+Then you should install the google translate by opening the terminal and typing the command line:
+adb install google translate.apk
+After that, you are ready to use this app!
