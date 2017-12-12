@@ -58,7 +58,7 @@ After importing our project, you can use Emulator or your own Android device to 
 
 Since we imported 'Google Translate' as part of our application, you need to install 'Google Translate' on your Android device or on Emulator. 
 For Android devices, you can access to 'Google Translate' in [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en) App Store.
-For Emulator, you need to download google translate '.apk' file first. 
+For Emulator, you need to download google translate `.apk` file first. 
 
 
 
