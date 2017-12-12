@@ -38,7 +38,24 @@
 
 
 ## Get Started
-If you would like to run out app, the first thing is to download [Android Studio](https://developer.android.com/studio/index.html) if you haven't done it.  Then if you have installed ```git```, you can use the command ```git clone 
+
+If you would like to run out app, the first thing is to download [Android Studio](https://developer.android.com/studio/index.html) if you haven't done it.
+
+Then if you have installed `git`, you can use the command 
+
+```
+git clone https://github.com/wym613/BlingBling.git
+``` 
+
+to download our project. Instead of that, you can also download from our github website.
+
+
+After importing our project, you can use Emulator or your own Android device to run our application.
+
+
+
+
+
  
  
  
