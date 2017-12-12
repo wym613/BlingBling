@@ -3,165 +3,156 @@
 
     <item
         is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_7deb926c70b3376fe1cbdf983a681efb2adf5e60.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_15018d5fc28e4f3c5593e3c3701ba9c27bf141d3.jar" />
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_92d08251d7d246be1fe09a7a4d3e71d8ad0e3ea4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_133388e75fc63c9436b53c5bc2bab05de384a505.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.rmtheis/tess-two/6.0.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="27377d2be96cab8211f228b424f221f34a0fa5bc">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.rmtheis-tess-two-6.0.4_3615d3d08efe9caa6357ccea9ea66b1a5aff4c28.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_02d70c66c0262a66f5584c330d0a3d076951dbd8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_fd12ae92f10fcfcf5aa29937550471d3898eb601.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_ed37ffbdf652c8779073fb679bf24a55cffba844.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_859b5c248a2e061ae5778a2ddfd9c68148eebbec.jar" />
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ba9720146bce159a21cffa0f75650a222c94a9e8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_c04e3fdac16cbe25d5ad4a3a6f8abdfbc526b68c.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_c10b2b0d4334e1de6e95af28886dfd5f1742844b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_df9b73e2a7dc347c3371bf0c334594d2f4968e00.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_bf09bd98851b6fef23fef7f9b688199e2c81dbd0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4e5b0a2ebde1d60206ab1ff82c1c67b614fd7fda.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_50d27d067c5ff13e6963feb02a593cc3978282b0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_e5ac1f19d6357398f9664c364b198643a10dea48.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_431b7f3ae43554b96e6beb0e963b3c7804181c50.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_bbab6d402df385c1dac0aa874da2e902f9811d6d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_6041bee718f6491c9a81048561066351b314e742.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.3.1/jars/classes.jar"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.theartofdev.edmodo-android-image-cropper-2.3.1_2c069206908b2463c315cfbffde72e6811af5ed5.jar" />
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.theartofdev.edmodo-android-image-cropper-2.3.1_46a88dd853412580aeb3eb6cf1c668bb7072c984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_cfea8457cc7822fce3bfa522c320847b14d19d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1936ea4667f9785763f180299ef8cd04cc78888e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_8601bbba260dcaae86aa6fa220d9b18be445e838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_5d88363b208fee36c6d0561ca60be1585efa5ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_b9560d5e16fcd45dc2e732b201e6219920577f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_9c6cb9df4408705796a51f560fb2cd8e533eec4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_2bf7e2dafa9718daef3fee8140ed7a6be5e8e960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_545b47a483b07c5949bf413728382a7b76dada0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_4adba9cebad510e3255c0810e420e18e31358ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_b6e9ad954c5e74ae0bb9e3d6865b63ee05bf0aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1c4b36363bd8acc8f1ec20586d431c3917ec3ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_407a62841ef9e4caaeaa37eb65d7f231899f3b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.rmtheis/tess-two/6.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27377d2be96cab8211f228b424f221f34a0fa5bc">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.rmtheis-tess-two-6.0.4_89cf721bc3f2dde592a8a0fb2d32e6e230359b94.jar" />
     </item>
     <item
         is-multidex="false"
@@ -170,16 +161,25 @@
         optimize="true"
         revision="24.0.2"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_b3bfdc3fa7f903730753464748c2756e7b408169.jar" />
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_b3bfdc3fa7f903730753464748c2756e7b408169.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/chai/Desktop/text-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_2ab669d55f17877c7bc6faf60fd17f2817e951a3.jar" />
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_ba903927ef831ef3ec1ec20d5563d17c5f2f3020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chai/Desktop/blingbling1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/chai/Desktop/blingbling1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_52b19744be43c7c73b8e7b43717613d85d81a36e.jar" />
     </item>
 
 </items>
