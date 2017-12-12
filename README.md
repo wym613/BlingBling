@@ -35,6 +35,10 @@
 - [x] Chose database for translation
 
 ### :satisfied::satisfied::satisfied:We are still working on it...
+
+
+## Get Started
+If you would like to run out app, the first thing is to download [Android Studio](https://developer.android.com/studio/index.html) if you haven't done it.  Then if you have installed ```git```, you can use the command ```git clone 
  
  
  
