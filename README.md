@@ -39,7 +39,7 @@
 
 ## Get Started
 
-If you would like to run out app, the first thing is to download [Android Studio](https://developer.android.com/studio/index.html) if you haven't done it.
+If you would like to run our application, the first thing is to download [Android Studio](https://developer.android.com/studio/index.html) if you haven't done it.
 
 Then if you have installed `git`, you can use the command 
 
